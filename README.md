@@ -154,7 +154,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ### <a name="#special-thanks"> 🙌 Special Thanks</a>
 
 This app was originally inspired by JavaScript Mastery's, but built and customized independently with additional
-improvements, UI changes, and debugging**.
+improvements, UI changes, and debugging.
 
 ---
 
